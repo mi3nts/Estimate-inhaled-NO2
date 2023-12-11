@@ -13,14 +13,14 @@ The "full_df_2021_NOX.pkl" file consists of the DataFrame with 330 columns of wh
 
 If the code and data was found to be useful, then please use the following citation:
 `Ruwali S, Fernando B, Talebi S, Lary DJ. Estimating Inhaled Nitrogen Dioxide from the Human Biometric Response.
-https://github.com/mi3nts/Estimate-CO2, 2023`
+https://github.com/mi3nts/Estimate-inhaled-NO2`
 
 Bibtex:
 ```
 @misc{estimateNO2,
 author={Ruwali,S. and Talebi, S. and Fernando, B.A.  and Lary, D. J.},
 title={Estimating Inhaled Nitrogen Dioxide from the Human Biometric Response},
-howpublished={https://github.com/mi3nts/Estimate-CO2},
+howpublished={https://github.com/mi3nts/Estimate-inhaled-NO2},
 year={2023},
 }
 ```
